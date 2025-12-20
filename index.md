@@ -5,7 +5,7 @@
 
 The `s2s-ai-competition` is officially over. However, the organizers encourages everyone to post new contributions on renku in the future and to take advantage of the software framework developed for the competition. This website and the renku projects will be kept available until December 2023 (the end of the [S2S project](http://s2sprediction.net/)).
 Especially if your contribution beats the current leader, please contact [Andy Robertson](https://iri.columbia.edu/contact/staff-directory/andrew-robertson/) and [Frederic Vitart](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/frederic-vitart).
-The `s2s-ai-challenge-scorer` contributing to the [leaderboard](https://renkulab.io/gitlab/aaron.spring/s2s-ai-challenge-leaderboard) stops working, but you can still easily score your contributions [manually](https://renkulab.io/gitlab/tasko.olevski/s2s-ai-competition-scoring-image/-/tree/master).
+The `s2s-ai-challenge-scorer` contributing to the [leaderboard](https://renkulab.io/gitlab/aaron.spring/s2s-ai-challenge-leaderboard) ([now migrated](https://github.com/aaronspring/s2s-ai-challenge-leaderboard)) stops working, but you can still easily score your contributions [manually](https://renkulab.io/gitlab/tasko.olevski/s2s-ai-competition-scoring-image/-/tree/master) ([now migrated](https://github.com/aaronspring/s2s-ai-competition-scoring-image)).
 
 
 ## Competition Overview <!-- tl;dr -->
@@ -13,7 +13,7 @@ The `s2s-ai-challenge-scorer` contributing to the [leaderboard](https://renkulab
 - Goal: Improve subseasonal-to-seasonal precipitation and temperature forecasts with Machine Learning/Artificial Intelligence
 - [Flyer](https://www.wcrp-climate.org/documents/news-highlights/AI%20Prize%20Challenge_17%20May%202021_1740.pdf)
 - Competition runs on platform [https://renkulab.io/](https://renkulab.io/)
-- How to join: [https://renkulab.io/projects/aaron.spring/s2s-ai-challenge-template/](https://renkulab.io/projects/aaron.spring/s2s-ai-challenge-template/)
+- How to join: [https://renkulab.io/projects/aaron.spring/s2s-ai-challenge-template/](https://renkulab.io/projects/aaron.spring/s2s-ai-challenge-template/) ([now migrated](https://github.com/aaronspring/s2s-ai-challenge-template))
 - Contributions accepted: 1st June 2021 - 31st October 2021
 - Data: via [climetlab](https://github.com/ecmwf-lab/climetlab-s2s-ai-challenge), see [Data](#data)
 - Website: [https://s2s-ai-challenge.github.io](https://s2s-ai-challenge.github.io)
